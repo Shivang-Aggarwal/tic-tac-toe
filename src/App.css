@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+@layer components {
+    td {
+        @apply border-10 border-amber-950 border-collapse text-center align-middle font-bold;
+        font-size: 6vw
+    }
+}
