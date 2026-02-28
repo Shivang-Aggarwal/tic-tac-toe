@@ -7,6 +7,10 @@
 
 TicTacToe with React
 
+<p align="center">
+  <img src="screenshots/tictactoe.png" alt="tictactoe-ss" width="400">
+</p>
+
 ### ✍️ Authors
 
 [Shivang Aggarwal](https://github.com/Shivang-Aggarwal)
